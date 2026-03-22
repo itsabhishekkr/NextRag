@@ -56,7 +56,7 @@ This codebase provides:
 ## 1. **Clone and Install**
 
 ```bash
-git clone https://github.com/hamedmp/nextrag
+https://github.com/itsabhishekkr/NextRag
 cd nextrag
 pnpm install
 ```
